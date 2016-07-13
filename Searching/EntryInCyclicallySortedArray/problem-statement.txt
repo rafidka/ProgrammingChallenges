@@ -1,0 +1,1 @@
+Given a cyclically sorted array, design an efficient algorithm that finds an element in it in O(log(n)) time.
