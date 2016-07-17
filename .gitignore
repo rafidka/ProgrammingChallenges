@@ -111,8 +111,11 @@ ClientBin/
 node_modules/
 orleans.codegen.cs
 
-## Java related files. Added by GitHub automatically.
-##
+#-------------------------------------------------------------------------------
+# Java
+# https://github.com/github/gitignore/blob/master/Java.gitignore
+#-------------------------------------------------------------------------------
+
 *.class
 
 # Mobile Tools for Java (J2ME)
@@ -125,3 +128,7 @@ orleans.codegen.cs
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+#-------------------------------------------------------------------------------
+# End Java
+#-------------------------------------------------------------------------------
